@@ -10,7 +10,7 @@ $(function () {
  
   showText("#msg", "Dhruv Diddi", 0, 100);
   setTimeout(function() {showText("#msg1", "Software Developer", 0, 50);}, 1000);
-  setTimeout(function() {showText("#msg2", " Improving the world a line at a time....	", 0, 50);},2000);    
+  setTimeout(function() {showText("#msg2", " Improving the world a line at a time.	", 0, 50);},2000);    
  	
 }); 
 
